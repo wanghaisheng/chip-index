@@ -1,6 +1,6 @@
 <img src="https://github.com/KyleBing/apple-chip/raw/master/imgs/logo.png" width="100">
 
-# Apple Chip 信息
+# Apple Chip index  信息
 
 > 数据来源： wikipedia
 
